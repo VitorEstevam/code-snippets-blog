@@ -8,3 +8,6 @@ https://vitorestevam.github.io/code-snippets-blog/
 - [ ] page design
 - [ ] refactor with vanilla js
 - [ ] add more snippets to my auxiliar repo
+
+# auxiliar repo
+https://github.com/VitorEstevam/codesnippets
